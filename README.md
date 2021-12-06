@@ -1,4 +1,4 @@
-# Mentos Music Bot
+# MAHADEV Music Bot
 
 𝐈𝐒𝐊 🔥
 
