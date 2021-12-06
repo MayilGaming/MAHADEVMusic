@@ -47,7 +47,7 @@
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
             "required": true,
-            "value": ""
+            "value": "540000"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
