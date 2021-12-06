@@ -21,11 +21,11 @@ from Music.MusicUtilities.database.sudo import (get_sudoers, get_sudoers, remove
 def start_pannel():  
     buttons  = [
             [
-                InlineKeyboardButton(text="🎚 Commands Menu", url="https://telegra.ph/Mentos-Music-11-27")
+                InlineKeyboardButton(text="🎚 Commands Menu", url="https://t.me/Murat_30_God/94")
             ],
             [ 
-                InlineKeyboardButton(text="📨Official Channel", url="https://t.me/Murat_30_God"),
-                InlineKeyboardButton(text="📨Support Group", url="https://t.me/MeowUserbot")
+                InlineKeyboardButton(text="📨Official Channel", url="https://t.me/status_galery_30"),
+                InlineKeyboardButton(text="📨Support Group", url="https://t.me/status_galery")
             ],
     ]
     return "🎛  **This is Music Music Bot**", buttons
@@ -35,12 +35,12 @@ pstart_markup=InlineKeyboardMarkup(
                 [
                     InlineKeyboardButton("💞 Sᴜᴍᴍᴏɴ Mᴇ 💞", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
                 ], 
-                [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"https://telegra.ph/Chutuya-11-27")],
+                [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"https://t.me/Murat_30_God/94")],
                 [
                     InlineKeyboardButton(
-                        "📢 Uᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/Murat_30_God"), 
+                        "📢 Uᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/status_galery_30"), 
                     InlineKeyboardButton(
-                        "💬 Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/MeowUserbot")
+                        "💬 Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/status_galery")
                 ],
                 [ InlineKeyboardButton("🧑‍💻 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🧑‍💻", url=f"https://GitHub.com/kaal0408/MAHADEVMusic"),]
 
